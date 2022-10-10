@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">Zadanie_1_Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    <string name="q_kobayashi">Ryoyu Kobayashi zdobył złoty medal olimpijski w 2022 roku</string>
+    <string name="q_stoch">Kamil Stoch nigdy nie zdobył kryształowej kuli</string>
+    <string name="q_messi">Messi jest zawodnikiem FC Barcelony</string>
+    <string name="q_legia">Legia Warszawa to najlepszy klub</string>
+    <string name="q_mbappe">Mbappe jest zawodnikiem PSG</string>
+    <string name="correct_anwer">Prawidłowa odpowiedź!</string>
+    <string name="incorrect_anwer">Nieprawidłowa odpowiedź</string>
+    <string name="hello">Witaj w aplikacji Quiz</string>
+</resources>
