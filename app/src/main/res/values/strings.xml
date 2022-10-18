@@ -11,4 +11,7 @@
     <string name="correct_anwer">Prawidłowa odpowiedź!</string>
     <string name="incorrect_anwer">Nieprawidłowa odpowiedź</string>
     <string name="hello">Witaj w aplikacji Quiz</string>
+    <string name="question">Czy na pewno chcesz zobaczyć odpowiedź?</string>
+    <string name="answer_was_shown">Odpowiedź była już wyświetlona!</string>
+    <string name="podpowiedz">Podpowiedź</string>
 </resources>
